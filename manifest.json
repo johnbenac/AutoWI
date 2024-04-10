@@ -1,0 +1,12 @@
+{
+    "display_name": "Auto World Info",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Your name",
+    "version": "1.0.0",
+    "homePage": "https://github.com/johnbenac/AutoWI",
+    "auto_update": true
+}
